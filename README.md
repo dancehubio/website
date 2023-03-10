@@ -22,5 +22,3 @@ I am not a professional latin dancer; I however love social dancing and enjoying
 # How to use this guide
 Each move is dissected into different exercises/variantions you can do by yourself and with your partner.
 > Please practice every single move diligently.
-
-
