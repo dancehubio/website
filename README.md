@@ -4,16 +4,15 @@ This series provides the main partnerwork salsa moves you would need to learn by
 
 There are hundreds of moves that professional use be it in the dancefloor or on stage; they are however all based on a few atomic moves we will address in this guide.
 - [Basic move](moves/basic-move.md)
-- cross body lead
-- Right turn
-- Left or reverse turn
-- Catwalk
-- Inside turn
-- Outside turn
-- Lasso
-- Around the world
-- Grape vine
-- Coca Cola
+- [cross body lead](moves/cross-body-lead.md)
+- [Right turn](moves/right-turn)
+- [Left or reverse turn](moves/reverse-turn.md)
+- [Catwalk](moves/catwalk.md)
+- [Inside turn](moves/inside-turn.md)
+- [Outside turn](moves/outside-turn.md)
+- [Lasso](moves/lasso.md)
+- [Grape vine](moves/grapevine.md)
+- [Coca Cola](moves/coca-cola.md)
 
 
 ## Disclaimer
