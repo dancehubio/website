@@ -16,7 +16,7 @@ There are hundreds of moves that professional use be it in the dancefloor or on 
 
 
 ## Disclaimer
-I am not a professional latin dancer; I however love social dancing and enjoying the music. I call an advanced beginner.
+I am not a professional latin dancer; I however love social dancing and enjoying the music. I am an advanced beginner.
 
 # How to use this guide
 Each move is dissected into different exercises/variantions you can do by yourself and with your partner.
