@@ -1,3 +1,0 @@
-# Lasso
-
-In progress

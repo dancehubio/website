@@ -1,0 +1,42 @@
+---
+layout: page
+---
+
+<style type="text/css" media="screen">
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+.previous {
+  text-align: left;
+}
+
+.next {
+  text-align: right;
+}
+</style>
+
+{% include youtube_video.liquid id=page.youtube_video_id %}
+<p>{{ page.description }}</p>
+<div class="row">
+  <div class="column previous">
+    {% if page.previous_move_url %}
+      <a href="{{ page.previous_move_path }}">Previous move</a>
+    {% endif %}
+  </div>
+  <div class="column next">
+    {% if page.next_move_url %}
+      <a href="{{ page.next_move_path }}">Next move</a>
+    {% endif %}
+  </div>
+</div>

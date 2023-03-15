@@ -1,13 +1,7 @@
-# Basic move
-
-The basic move
-
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/UmX4kyB2wfg"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+---
+layout: move
+youtube_video_id: UmX4kyB2wfg
+title: Basic move
+description: The basic move comes in different flavours!
+next_move_url: /moves/cross-body-lead
+---

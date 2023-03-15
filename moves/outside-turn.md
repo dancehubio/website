@@ -1,3 +1,0 @@
-# Outside turn
-
-In progress

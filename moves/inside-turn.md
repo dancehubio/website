@@ -1,3 +1,0 @@
-# Inside turn
-
-In progress

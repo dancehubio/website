@@ -1,3 +1,0 @@
-# Catwalk
-
-In progress
