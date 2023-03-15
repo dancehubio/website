@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Guide
-permalink: /guide/
+title: Tutorials
+permalink: /tutorials
 ---
 
 # Introduction
