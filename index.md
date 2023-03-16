@@ -17,7 +17,7 @@ layout: default
 
 
 
-<div class="parent ">
+<div class="parent text-red-500">
   <div>
     <h1>Coming Soon!</h1>
   </div>
