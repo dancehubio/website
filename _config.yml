@@ -29,6 +29,10 @@ url: "http://www.playfuldanceacademy.com" # the base hostname & protocol for you
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-postcss
+
+postcss:
+  cache: false
 
 # header_pages:
 #   - pages/about.md
