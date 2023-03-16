@@ -2,6 +2,7 @@
 layout: page
 title: Tutorials
 permalink: /tutorials
+exclude: true
 ---
 
 # Introduction
