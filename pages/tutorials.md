@@ -17,7 +17,7 @@ There are hundreds of moves that professionals use be it on the dancefloor or on
   {% assign sorted_tutorials = site.tutorials %}
   {% for tutorial in sorted_tutorials %}
     <li>
-      <a href="{{tutorial.url}}">{{ tutorial.title }}</a>
+      <a href="{{tutorial.url | absolute_url}}">{{ tutorial.title }}</a>
     </li>
   {% endfor %}
 </ul>
