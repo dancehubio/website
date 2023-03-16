@@ -2,6 +2,7 @@
 layout: page
 title: Resources
 permalink: /resources
+exclude: true
 ---
 
-Under construction
+Section under construction!

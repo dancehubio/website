@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about
+exclude: false
 ---
 
 Hi! I am Haytham! A Salsa dancer in Toronto, Canada!
