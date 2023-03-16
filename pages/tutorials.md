@@ -2,7 +2,6 @@
 layout: page
 title: Tutorials
 permalink: /tutorials
-exclude: true
 ---
 
 # Introduction
@@ -10,15 +9,15 @@ This guide introduces simple salsa moves with increased difficulty. You can look
 
 Salsa is like Tango in that you would need 2 people to tango: **a leader** and **a follower**. There is no leader without follower and there is no follower without a leader. It is a choice that we make everytime we start dancing with our partner.
 
-# Exercises
+# Moves
 
-Section under construction!
+There are hundreds of moves that professionals use be it on the dancefloor or on stage; they are however all based on a few atomic moves we will address in this guide.
 
-<!-- <ul>
+<ul>
   {% assign sorted_tutorials = site.tutorials %}
   {% for tutorial in sorted_tutorials %}
     <li>
       <a href="{{tutorial.url | absolute_url}}">{{ tutorial.title }}</a>
     </li>
   {% endfor %}
-</ul> -->
+</ul>
